@@ -1,3 +1,5 @@
 Apples
 Mangoes
 Banana
+Grapes
+Strawberry

@@ -1,14 +1,18 @@
 Apples
+Round
+
 Mangoes
+
 Banana
+
 Grapes
 Strawberry
+
 Orange
+Round
 
 
 blueberry
-
-
 
 Blueberries
 Kiwi

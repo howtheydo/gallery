@@ -22,3 +22,8 @@ red
 apples
 
 
+Banana
+1.2
+
+Mangoes
+2.1
